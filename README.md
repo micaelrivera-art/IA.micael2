@@ -25,7 +25,8 @@ As empresas devem proteger os dados dos usuários para que conversas, gostos ou 
 6. Futuro da inteligência artificial
  
 A IA está crescendo muito e vai ajudar em várias áreas: saúde, estudos e até no trabalho. Mas precisamos usá‑la com cuidado, sempre verificando se ela é justa e segura para as pessoas.                                                                                                           
-7. O que acontece se o modelo não for bom?
+ 
+ 7. O que acontece se o modelo não for bom?
    
 Se o modelo não funcionar bem, ele pode errar de duas formas:
  
@@ -34,6 +35,7 @@ Se o modelo não funcionar bem, ele pode errar de duas formas:
 -  Pensa que é verdadeiro, mas é golpe → A pessoa envia o dinheiro e perde tudo.
  
 Quando o modelo erra muito, ninguém confia mais nele e os golpes continuam acontecendo. Por isso, é fundamental que o modelo seja preciso.                                                                                       
+
 8. Apresentação curta
 
   Abertura: Estão clonando vozes para aplicar golpes nas famílias. Precisamos agir agora.
