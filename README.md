@@ -24,22 +24,24 @@ As empresas devem proteger os dados dos usuários para que conversas, gostos ou 
  
 6. Futuro da inteligência artificial
  
-A IA está crescendo muito e vai ajudar em várias áreas: saúde, estudos e até no trabalho. Mas precisamos usá‑la com cuidado, sempre verificando se ela é justa e segura para as pessoas.                                                                                                     7️⃣ O que acontece se o modelo não for bom?
- 
+A IA está crescendo muito e vai ajudar em várias áreas: saúde, estudos e até no trabalho. Mas precisamos usá‑la com cuidado, sempre verificando se ela é justa e segura para as pessoas.                                                                                                           
+7. O que acontece se o modelo não for bom?
+   
 Se o modelo não funcionar bem, ele pode errar de duas formas:
  
-- ❌ Pensa que é golpe, mas é verdadeiro → A família não recebe ajuda quando realmente precisa.
+-  Pensa que é golpe, mas é verdadeiro → A família não recebe ajuda quando realmente precisa.
 ​
-- ❌ Pensa que é verdadeiro, mas é golpe → A pessoa envia o dinheiro e perde tudo.
+-  Pensa que é verdadeiro, mas é golpe → A pessoa envia o dinheiro e perde tudo.
  
-Quando o modelo erra muito, ninguém confia mais nele e os golpes continuam acontecendo. Por isso, é fundamental que o modelo seja preciso.                                                                                        8️⃣ Apresentação curta
+Quando o modelo erra muito, ninguém confia mais nele e os golpes continuam acontecendo. Por isso, é fundamental que o modelo seja preciso.                                                                                       
+8. Apresentação curta
+
+  Abertura: Estão clonando vozes para aplicar golpes nas famílias. Precisamos agir agora.
  
-⏱️ Abertura: Estão clonando vozes para aplicar golpes nas famílias. Precisamos agir agora.
+ Problema: Ligam usando a voz de alguém da família pedindo dinheiro. Muitas pessoas caem no golpe por medo.
  
-⚠️ Problema: Ligam usando a voz de alguém da família pedindo dinheiro. Muitas pessoas caem no golpe por medo.
+Dados: Analisamos milhares de ligações — falsas e verdadeiras. Já sabemos como esse golpe funciona.
  
-📊 Dados: Analisamos milhares de ligações — falsas e verdadeiras. Já sabemos como esse golpe funciona.
+ Solução: Temos uma ferramenta que descobre se a voz é falsa. Se houver risco, avisamos na hora.
  
-✅ Solução: Temos uma ferramenta que descobre se a voz é falsa. Se houver risco, avisamos na hora.
- 
-🚀 Próximos passos: Diga a todos: antes de enviar dinheiro, ligue de volta para um número que você já conhece. Começamos hoje mesmo. 
+ Próximos passos: Diga a todos: antes de enviar dinheiro, ligue de volta para um número que você já conhece. Começamos hoje mesmo. 
